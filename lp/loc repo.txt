@@ -3,3 +3,7 @@ docker
 aws codecommit
     code build
     code deploy
+ec2
+storage s3
+ecs
+eks
